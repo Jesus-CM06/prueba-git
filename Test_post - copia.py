@@ -24,4 +24,3 @@ print('---------------------------')
 print('')
 
 print('Holis')
-print('Adios')
